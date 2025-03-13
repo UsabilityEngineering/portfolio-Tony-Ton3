@@ -33,11 +33,11 @@ After scrolling through more and more posts, I realized I had been scrolling for
 
 ![Clock showing time passing](https://media.gettyimages.com/id/1369345481/video/time-04.jpg?s=640x640&k=20&c=JGdmt4k18p4-P3yK10zEXKwpse86NkBZl-U7-XPOHPo=)
 
-When I finally decided to stop, I noticed how difficult it was to actually put the phone down. The **variable reward system** at play—not knowing if the next video will be amazing or just okay, creates a psychological hook similar to slot machines. This unpredictability triggers dopamine release, making the experience highly addictive and hard to terminate voluntarily.
+When I finally decided to stop, I noticed how difficult it was to actually put the phone down. The **variable reward system** at play—not knowing if the next video will be amazing or just okay, creates a psychological hook similar to slot machines. This unpredictability triggers dopamine release, making the experience highly addictive and hard to stop scrolling.
 
 ## The Outcome
 
-I ultimately spent over an hour on TikTok—four times longer than intended. While the content was entertaining and the experience was superficially satisfying, I felt a sense of time wasted afterward.
+I ended up spending over an hour on TikTok—four times longer than intended. While the content was entertaining and the experience was superficially satisfying, I felt a sense mental drainage afterward.
 
 From a UX perspective, TikTok excels at **engagement** but fails at respecting user **autonomy**—the ability for users to maintain control over their experience. The app prioritizes **sticky features** (elements designed to keep users on the platform longer) over helping users achieve their actual goals.
 
